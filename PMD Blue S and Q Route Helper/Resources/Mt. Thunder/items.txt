@@ -1,0 +1,4 @@
+5F special Band spawn
+7F optional cheri berry
+
+6F warp(full down full up) saves 3 seconds

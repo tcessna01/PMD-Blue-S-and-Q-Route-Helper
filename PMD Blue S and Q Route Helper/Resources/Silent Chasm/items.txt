@@ -1,0 +1,7 @@
+2F max elixer(out of the way)
+5F POWER BAND down right from start
+6F auto blast
+6F if squirtle is level 10 add power band
+9F Optional pecha berry
+
+5F warp(same movement to power band, two fast left) saves 1.5 seconds

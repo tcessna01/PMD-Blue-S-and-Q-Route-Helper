@@ -1,0 +1,8 @@
+F17 ice beam right
+
+2 max elixer(18 & 31)
+1 apple(18)
+
+8F warp(Right as much as possible 2 up)
+18F warp(2 Right)
+25F warp(UP+Right)

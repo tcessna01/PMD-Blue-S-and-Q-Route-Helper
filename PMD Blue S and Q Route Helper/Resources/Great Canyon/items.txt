@@ -1,0 +1,4 @@
+4F attract top left
+5F murrow picking up link box
+
+10F warp(instant) saves 13 seconds
